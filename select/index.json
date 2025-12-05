@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "太陽ノ紅響曲[アリア]",
+  "base_artist": "佐藤ひろ美",
+  "createdAt": "2025-12-05T14:33:38.785804Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽ノ紅響曲",
+      "artist": "佐藤ひろ美",
+      "has_synced": false,
+      "path": "select/pl_01_太陽ノ紅響曲_佐藤ひろ美.txt"
+    }
+  ]
+}
